@@ -1,4 +1,4 @@
-package cn.gekal.sample.testparameterinjector;
+package cn.gekal.sample.testparameterinjector.tests;
 
 public enum MyEnum {
     VALUE_A,

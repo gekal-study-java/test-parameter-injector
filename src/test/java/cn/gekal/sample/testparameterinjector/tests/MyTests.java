@@ -1,6 +1,5 @@
-package cn.gekal.sample.testparameterinjector.command;
+package cn.gekal.sample.testparameterinjector.tests;
 
-import cn.gekal.sample.testparameterinjector.MyEnum;
 import com.google.testing.junit.testparameterinjector.junit5.TestParameter;
 import com.google.testing.junit.testparameterinjector.junit5.TestParameterInjectorTest;
 import com.google.testing.junit.testparameterinjector.junit5.TestParameters;
