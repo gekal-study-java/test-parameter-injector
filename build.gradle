@@ -20,11 +20,11 @@ repositories {
 
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter'
-    implementation 'com.google.testparameterinjector:test-parameter-injector-junit5:1.8'
 
     annotationProcessor 'org.springframework.boot:spring-boot-configuration-processor'
 
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testImplementation 'com.google.testparameterinjector:test-parameter-injector-junit5:1.8'
 }
 
 tasks.named('test') {
